@@ -4,6 +4,10 @@
         "private": false
     },
     {
+        "name": "f2",
+        "private": false
+    },
+    {
         "name": "f3",
         "private": false
     }
