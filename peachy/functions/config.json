@@ -2,5 +2,9 @@
     {
         "name": "f1",
         "private": false
+    },
+    {
+        "name": "f3",
+        "private": false
     }
 ]
