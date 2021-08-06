@@ -1,0 +1,7 @@
+{
+    "app_id": "raspberry-huqcm",
+    "config_version": 20210101,
+    "name": "raspberry",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL"
+}
