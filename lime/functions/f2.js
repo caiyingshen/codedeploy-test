@@ -14,6 +14,5 @@ exports = function(arg){
 
     Try running in the console below.
   */
-  console.log("🤔🤔🤔🤔🤔🤔🤔🤔")
   return {arg: arg};
 };
