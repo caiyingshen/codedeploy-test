@@ -1,20 +1,18 @@
 {
     "name": "forwarder",
     "log_types": [
-      "auth"
+        "auth"
     ],
     "log_statuses": [
-      "error",
-      "success"
+        "error",
+        "success"
     ],
     "policy": {
-      "type": "single"
+        "type": "single"
     },
     "action": {
       "type": "function",
       "name": "function_b"
     },
     "disabled": false
-  }
-  
-  
+}
