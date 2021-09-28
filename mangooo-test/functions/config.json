@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "name": "function_a",
+        "private": false
+    }
+]
