@@ -12,7 +12,7 @@
     },
     "action": {
       "type": "function",
-      "name": "function_a"
+      "name": "function_b"
     },
     "disabled": false
   }
