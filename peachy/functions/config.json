@@ -10,5 +10,9 @@
     {
         "name": "f3",
         "private": false
+    },
+    {
+        "name": "authFunc",
+        "private": false
     }
 ]
