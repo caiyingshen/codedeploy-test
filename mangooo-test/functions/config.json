@@ -1,14 +1,14 @@
 [
     {
+        "name": "authFunc",
+        "private": false
+    },
+    {
         "name": "function_a",
         "private": false
     },
     {
         "name": "function_b",
-        "private": false
-    },
-    {
-        "name": "authFunc",
         "private": false
     }
 ]
