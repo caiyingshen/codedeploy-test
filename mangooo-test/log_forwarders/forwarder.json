@@ -11,8 +11,8 @@
         "type": "single"
     },
     "action": {
-      "type": "function",
-      "name": "function_b"
+        "type": "function",
+        "name": "function_b"
     },
     "disabled": false
 }
