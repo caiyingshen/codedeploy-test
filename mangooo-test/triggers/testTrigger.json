@@ -1,0 +1,16 @@
+{
+    "id": "61673ab23a1ff61f0378c08e",
+    "name": "testTrigger",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "*/1 * * * *"
+    },
+    "disabled": false,
+    "event_processors": {
+        "FUNCTION": {
+            "config": {
+                "function_name": "myFunc"
+            }
+        }
+    }
+}

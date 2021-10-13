@@ -1,0 +1,9 @@
+{
+    "name": "mdb",
+    "type": "mongodb",
+    "config": {},
+    "secret_config": {
+        "uri": "__mdb_uri"
+    },
+    "version": 1
+}
