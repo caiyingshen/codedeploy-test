@@ -2,7 +2,7 @@
     "name": "serverless",
     "type": "mongodb-atlas",
     "config": {
-        "clusterName": "ServerlessInstance0",
+        "clusterName": "Cluster0",
         "readPreference": "primary",
         "wireProtocolEnabled": false
     },
