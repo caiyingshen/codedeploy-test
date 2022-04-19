@@ -2,7 +2,7 @@
     "name": "mdb",
     "type": "mongodb-atlas",
     "config": {
-        "clusterName": "Cluster0",
+        "clusterName": "ServerlessInstance0",
         "readPreference": "primaryPreferred",
         "wireProtocolEnabled": false
     },
