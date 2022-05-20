@@ -1,6 +1,5 @@
 {
     "versions": [
-        "beta",
         "v1"
     ],
     "run_as_system": true,
