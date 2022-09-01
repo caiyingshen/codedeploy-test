@@ -13,5 +13,10 @@
         "name": "f2",
         "private": false,
         "disable_arg_logs": true
+    },
+    {
+        "name": "f3",
+        "private": false,
+        "disable_arg_logs": true
     }
 ]
