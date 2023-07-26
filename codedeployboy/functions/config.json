@@ -3,5 +3,10 @@
         "name": "nested/deep/function",
         "private": false,
         "disable_arg_logs": true
+    },
+    {
+        "name": "nested/deeper/function",
+        "private": false,
+        "disable_arg_logs": true
     }
 ]
